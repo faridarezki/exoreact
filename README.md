@@ -3,7 +3,7 @@ CREATION PROJET REACT
 - [x]  Créer un projet React
 - [x]   Créer un projet Git
 - [x]  Nettoyer le projet React des fichiers inutiles
-- [] Créer les bon dossier pour correctement ranger le projet
+- [x] Créer les bon dossier pour correctement ranger le projet
 - []  Installer bootstrap
 - []  Installer le router
 - []  Créer le composant CreateComment.js
