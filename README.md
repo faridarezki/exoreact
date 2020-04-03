@@ -11,4 +11,4 @@ CREATION PROJET REACT
 - [x]  Créer le composant Home.js
 - [x]  Créer le composant NotFound.js
 - [x]  Créer le composant Navigation.js
-- []  Créer le composant App.js
+- [x]  Créer le composant App.js
