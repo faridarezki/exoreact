@@ -1,10 +1,13 @@
 import React from 'react';
-
+import Badge     from 'react-bootstrap/Badge';
 const Home = () => {
     return (
         <div>
+
             <h1>Page d accueil</h1>
-        </div>
+
+           <Badge variant="success"> site de farid</Badge>
+     </div>
     );
 };
 

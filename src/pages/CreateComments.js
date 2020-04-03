@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Form      from 'react-bootstrap/Form';
 import Button    from 'react-bootstrap/Button';
-import Badge     from 'react-bootstrap/Button';
+import Badge     from 'react-bootstrap/Badge';
 
 
 const CreateComments = () => {
@@ -66,8 +66,8 @@ const CreateComments = () => {
                         value={author}
                     />
                 </Form.Group>
-                 <Badge variant="success">AZUL</Badge>
-                <Badge variant="danger" type="submit">Créer le commentaire</Badge>
+
+                <Button variant="danger" type="submit">Créer le commentaire</Button>
             </Form>
 
         </Container>
