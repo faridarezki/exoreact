@@ -2,7 +2,7 @@ CREATION PROJET REACT
 
 - [x]  Créer un projet React
 - [x]   Créer un projet Git
-- []  Nettoyer le projet React des fichiers inutiles
+- [x]  Nettoyer le projet React des fichiers inutiles
 - [] Créer les bon dossier pour correctement ranger le projet
 - []  Installer bootstrap
 - []  Installer le router
